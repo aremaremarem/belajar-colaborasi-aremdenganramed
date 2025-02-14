@@ -1,3 +1,2 @@
 # belajar-colaborasi-aremdenganramed
-arem lu ganting
---
+belajar-colaborasi-aremdenganramed
