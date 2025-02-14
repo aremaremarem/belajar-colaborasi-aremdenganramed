@@ -1,4 +1,4 @@
 # belajar-colaborasi-aremdenganramed
-*commit satu
-*commit dua
-*commit tiga
+-commit satu
+-commit dua
+-commit tiga
